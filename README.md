@@ -1,5 +1,5 @@
 # WorkoutObligator
-![License Badge](https://img.shields.io/badge/license-Apache-brightgreen)
+![License Badge](https://img.shields.io/badge/license-MIT-brightgreen)
 
 ## Table of Contents
 * [Description](#description)
@@ -24,7 +24,7 @@ To utlize this application, add one or more new exercises to be documented as th
 Deployed application: https://nameless-sands-74939.herokuapp.com/
 
 ## License
-This project is licensed with Apache.
+This project is licensed with MIT.
 
 ## Questions
 Follow me on [Github](https://github.com/Kayvonk).
