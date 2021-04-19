@@ -17,7 +17,7 @@ To install this application, add this repository to a folder on your device. Run
 ## Usage
 To utlize this application, add one or more new exercises to be documented as the latest workout. The past 7 workouts will be displayed on the workout dashboard.
 
-![homePageThumbnail](./assets/homePageThumbnail.PNG)
+![homePageThumbnail](./assets/startPageThumbnail.PNG)
 
 ![statsPageThumbnail](./assets/statsPageThumbnail.PNG)
 
