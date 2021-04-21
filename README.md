@@ -15,7 +15,7 @@
 To install this application, add this repository to a folder on your device. Run npm install to acquire the necessary dependencies or simply use the link for the deployed application on heroku.
 
 ## Usage
-To utlize this application, add one or more new exercises to be documented as the latest workout. The past 7 workouts will be displayed on the workout dashboard.
+To utilize this application, add one or more new exercises to be documented as the latest workout. The past 7 workouts will be displayed on the workout dashboard.
 
 ![homePageThumbnail](./assets/startPageThumbnail.PNG)
 
